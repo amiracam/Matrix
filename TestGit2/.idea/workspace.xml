@@ -25,7 +25,7 @@
       <file leaf-file-name="HelloWorld.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HelloWorld.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="22" selection-start="203" selection-end="203" vertical-scroll-proportion="0.4263323">
+            <state line="16" column="32" selection-start="213" selection-end="213" vertical-scroll-proportion="0.4263323">
               <folding />
             </state>
           </provider>
@@ -179,7 +179,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
+    <frame x="-8" y="-8" width="1296" height="816" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -255,7 +255,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HelloWorld.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="22" selection-start="203" selection-end="203" vertical-scroll-proportion="0.4263323">
+        <state line="16" column="32" selection-start="213" selection-end="213" vertical-scroll-proportion="0.4263323">
           <folding />
         </state>
       </provider>
